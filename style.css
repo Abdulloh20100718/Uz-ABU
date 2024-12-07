@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(144, 144, 239);
+    gap: 30px;
+}
+h1{
+    margin-left: 30px;
+    margin-top: auto;
+}
+.main-content{
+    width: 400px;
+    height: 270px;
+    background-color: green;
+    margin-top:5px;
+    margin-left: 495px;
+
+}
+.sidebar{
+    position: absolute;
+    width: 180px;
+    height: 270px;
+    background-color: blueviolet;
+    margin-top:-270px;
+    margin-left: 900px;
+}
+.twin1{
+    width: 287px;
+    height: 150px;
+    background-color: orange;
+    margin-left: 495px;
+    margin-top: 5px;
+}
+.twin2{
+    width: 287px;
+    height: 150px;
+    background-color: orange;
+    margin-left: 795px;
+    margin-top: 5px;
+    margin-top: -150px;
+}
+.footer{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(3, 3, 111);
+    gap: 30px;
+    margin-top: 5px;
+}
+.container{
+    color: white;
+}
+
